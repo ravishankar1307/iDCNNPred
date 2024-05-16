@@ -1,5 +1,5 @@
 
-# iDCNNPred: An interpretable deep convolutional neural network prediction system-based virtual screening and identification of potential inhibitors of PI3Ka isoform against triple-negative breast cancer
+# iDCNNPred: An interpretable deep learning model for virtual screening and identification of PI3Ka inhibitors against triple-negative breast cancer
 
 * iDCNNPred is a PI3Ka prediction system, for an early stage of small molecules identification, using deep convolutional neural networks
 * Advantages of iDCNNPred system employing easily available 2D structural representation of molecules as an input instead of conventional fingerprints, which perform better than conventional fingerprint's limited performance
