@@ -66,3 +66,17 @@ how to train the iDCNNPred models and obtain optimal parameter sets:
 
 # Applicability domain (AD) of model
 * To check the reliability and generalizability of model, we used Applicability domain (AD) analysis to analyze the unseen predicted data points are outside or inside AD. Get the result and plot when run the code **Script/Custom_DCNN/Applicability_domain.m**
+
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@article{Jaiswal2024,
+  author = {Jaiswal, R. and Bhati, G. and Ahmed, S. et al.},
+  title = {iDCNNPred: an interpretable deep learning model for virtual screening and identification of PI3Ka inhibitors against triple-negative breast cancer},
+  journal = {Mol Divers},
+  year = {2024},
+  doi = {10.1007/s11030-024-11055-9},
+  url = {https://doi.org/10.1007/s11030-024-11055-9}
+}
